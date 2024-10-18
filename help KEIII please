@@ -1,0 +1,3 @@
+My kind ask for KEIII for any help:
+doesn't work  dconf write /org/gnome/shell/extensions/panel-date-format/format "'%a %V %y.%d.%m.%y %H:%M'"
+on my Ubuntu 22.04 - where can I find the format for upper panel data/time display? How to add %y (year)?
